@@ -2,9 +2,9 @@
 
   $Dosya = "textdosya.txt";
 
-  if(isset($_GET["ILAVE"])) {
+  if(isset($_POST["ILAVE"])) {
     $DosyaninMevcutIcerigi = file_get_contents($Dosya);
-    $EklenecekIfade = $_GET["ILAVE"];
+    $EklenecekIfade = $_POST["ILAVE"];
     $DosyaninMevcutIcerigi .= "\n" . $EklenecekIfade;
     file_put_contents($Dosya, $DosyaninMevcutIcerigi);
     echo "<h3>Başarılı!</h3>";
