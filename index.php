@@ -12,6 +12,7 @@
       <li><a href='text_dosya_duzenleme.php' target="_blank">PHP ile dosya düzenleme örneği</a></li>
       <li><a href='text_dosya_duzenleme_gelismis.php' target="_blank">PHP ile dosya düzenleme örneği (Gelişmiş)</a></li>
       <li><a href='resim_boyutlandirma.php' target="_blank">PHP ile resim boyutlandırma örneği</a></li>
+      <li><a href='resime_yazi_ekleme.php' target="_blank">PHP ile resime yazı ekleme örneği</a></li>
     </ul>
   </body>
 </html>
