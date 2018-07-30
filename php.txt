@@ -1,11 +1,2 @@
-PHP İLE WEB PROGRAMLAMA ÖĞRENELİM
-=========================================
-Burası LYK
-BOLU'dayız
-PHP Öğreniyoruz...
-2 yeni sınıf açtık.
-bir sınıfta 16 kişi var
-diğer sınıfta 18 kişi var
-Yani toplam 34 öğrencimiz var
-Sene daha fazla olmasını diliyoruz
 
+bu dosya php.txt dosyasıdır.
